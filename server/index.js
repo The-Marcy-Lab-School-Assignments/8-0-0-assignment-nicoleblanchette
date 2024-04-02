@@ -1,6 +1,9 @@
 // my settings aren't synced and i cannot log in to the right account
 // please forgive any silly formatting that slips past me
 
+// also i couldnt add to my about section sorry
+//  https://nicoles-first-server.onrender.com/
+
 const express = require('express');
 const app = express();
 
